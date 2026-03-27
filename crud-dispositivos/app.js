@@ -2,7 +2,7 @@
 // CONSTANTES
 // ============================================================
 
-//participação: José Eduardo
+//participação: José Eduardo, e compadre
 //You Bet!
 // Endereço base da API pública de testes
 const URL_API = 'https://restful-apidevcloe.vercel.app/objects';
